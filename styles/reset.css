@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  font-family: inherit;
+}
+
+img,
+picture,
+svg,
+video {
+  max-width: 100%;
+}
